@@ -1,0 +1,10 @@
+{
+  "name": "theme-page",
+  "version": "1.0.0",
+  "description": "Run a viral news theme page: pick your niche, logo and colors once, then turn the latest news into branded Instagram carousels (photo + video slides, verified sources) and crazy videos into 9:16 clip posts.",
+  "author": { "name": "AI Adventurer", "url": "https://github.com/sanskarprajapati" },
+  "homepage": "https://github.com/sanskarprajapati/theme-page",
+  "repository": "https://github.com/sanskarprajapati/theme-page",
+  "license": "MIT",
+  "keywords": ["instagram", "carousel", "news", "theme-page", "social-media", "video"]
+}

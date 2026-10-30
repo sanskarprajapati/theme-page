@@ -1,0 +1,15 @@
+{
+  "name": "theme-page",
+  "description": "The theme-page skill: turn the latest news in your niche into branded Instagram carousels and 9:16 clip posts.",
+  "owner": {
+    "name": "AI Adventurer",
+    "url": "https://github.com/sanskarprajapati"
+  },
+  "plugins": [
+    {
+      "name": "theme-page",
+      "source": "./",
+      "description": "Turn the latest news in your niche into branded Instagram carousels and 9:16 clip posts."
+    }
+  ]
+}

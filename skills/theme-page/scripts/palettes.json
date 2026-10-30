@@ -1,0 +1,10 @@
+{
+  "electric-cyan": {"accent": "#2FD0F5", "label": "Electric cyan (the classic news-page look)"},
+  "acid-lime": {"accent": "#C6FF3D", "label": "Acid lime"},
+  "hot-orange": {"accent": "#FF7A1A", "label": "Hot orange"},
+  "signal-red": {"accent": "#FF3B3B", "label": "Signal red"},
+  "gold": {"accent": "#FFC933", "label": "Gold"},
+  "violet": {"accent": "#A98BFF", "label": "Violet"},
+  "mint": {"accent": "#4DF5C4", "label": "Mint"},
+  "hot-pink": {"accent": "#FF4FA3", "label": "Hot pink"}
+}
